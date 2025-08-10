@@ -35,7 +35,8 @@ Even if you meet the above prerequisites you probably still want to **run bocker
 ## Example Usage
 
 ```
-$ bocker pull centos 7
+$ docker pull centos 7
+$ docker save centos > centos.tar
 ######################################################################## 100.0%
 ######################################################################## 100.0%
 ######################################################################## 100.0%
